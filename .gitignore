@@ -1,0 +1,10 @@
+bin
+build
+dist
+.gradle
+.classpath
+.project
+.vscode
+org.eclipse*.prefs
+node_modules
+typings
